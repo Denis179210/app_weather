@@ -1,0 +1,23 @@
+[type=text] {
+    width: 300px;
+    box-sizing: border-box;
+    padding-left: 5px;
+}
+#weather {
+    width: 500px;
+    /* border: 1px solid green; */
+    text-align: right;
+}
+.town {
+    font-size: 3em;
+}
+
+.repres {
+    padding-left: 40px;
+}
+.color {
+    color: green
+}
+.data {
+    color: red
+}
